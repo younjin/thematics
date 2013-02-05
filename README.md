@@ -1,0 +1,4 @@
+thematics
+=========
+
+Subtle gedit themes.
